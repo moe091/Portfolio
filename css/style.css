@@ -121,9 +121,10 @@ html {
 }
 
 .footer { 
-    height: 400px;
+    height: 200px;
     background-color: #d8e8ea;
     border-top: 1px #000 solid;
+    margin-top: 50px;
 }
 
 
